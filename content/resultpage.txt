@@ -1,0 +1,3 @@
+Hello guys, this the result pageHere is the result: Hello, this is the first text file,
+ Hello this is the second file pathHere is the result: Hello, this is the first text file, 
+ Hello this is the second file path
